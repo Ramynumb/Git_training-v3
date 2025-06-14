@@ -1,1 +1,2 @@
 Git revert 2
+this is stash lecture, change in main file
