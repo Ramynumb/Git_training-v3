@@ -5,3 +5,4 @@ Hauswirtschaftliche Mitarbeiterin - Hauswirtschafter
 git revert commit 1
 This is COmparaison lecture, change in file 2
 
+This is stash lecture, change in file 2

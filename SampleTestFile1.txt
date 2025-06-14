@@ -1,2 +1,6 @@
 Git revert 2
+<<<<<<< Updated upstream
 this is stash lecture, change in main file
+=======
+This is stash lecture, change in file 1
+>>>>>>> Stashed changes
